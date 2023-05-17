@@ -23,5 +23,6 @@
     </ol>
 <div align="center">
     <h1>Execução</h1>
-    <p>Abra qualquer navegador, na URL digite "http:</p>
+    <p>Abra qualquer navegador, na URL digite "http://127.0.0.1:'port'/</p>
+    <p>Na URL: <br>/ -> isso levara para um retorno json, essa é raiz do serviço deve fornecer todos os padrões de URL dos recursos <br>/hello -> retorna uma mensagem, hello world! </p>
 </div>

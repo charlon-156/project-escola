@@ -23,6 +23,10 @@
     </ol>
 <div align="center">
     <h1>Execução</h1>
-    <p>Abra qualquer navegador, na URL digite "http://127.0.0.1:'port'/</p>
+    <p>Abra qualquer navegador, na URL digite "http://127.0.0.1:'port'/ — LEMBRANDO, o valor de port depende da sua configuração esse valor deve ser respectivo do valor digitado no comando anterior</p>
     <p>Na URL: <br>/ -> isso levara para um retorno json, essa é raiz do serviço deve fornecer todos os padrões de URL dos recursos <br>/hello -> retorna uma mensagem, hello world! </p>
 </div>
+
+## Créditos
+
+Todos os direitos reservados © Charlon F. Monteiro
